@@ -21,7 +21,6 @@ export default function UseSelect() {
       switch (el) {
         case 'E':
         case 'I':
-          console.log('E SElected?: ', el);
           setSelected({...selected, M: el});
           break;
 
