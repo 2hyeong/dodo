@@ -1,5 +1,5 @@
 import React from 'react';
-import tw from 'twrnc';
+import tw from 'src/lib/tw';
 import {Button, Text, View} from 'react-native';
 import type {NativeStackNavigationProp} from '@react-navigation/native-stack';
 import type {StackParamList} from 'src/types/navigation';
